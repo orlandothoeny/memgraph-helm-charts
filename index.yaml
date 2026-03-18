@@ -1,26 +1,26 @@
 apiVersion: v1
 entries:
   memgraph:
-    - apiVersion: v2
-      appVersion: 3.8.1
-      created: "2026-03-18T11:01:42.705242427+01:00"
-      description: MemgraphDB Helm Chart
-      digest: 2d8807949776d59e045541c22847e43a6a4ab7ab4e3db538e2561018ec991548
-      home: https://memgraph.com/
-      icon: https://public-assets.memgraph.com/memgraph-logo/logo-large.png
-      keywords:
-        - graph
-        - database
-        - cypher
-        - analytics
-      maintainers:
-        - email: tech@memgraph.com
-          name: Memgraph
-      name: memgraph
-      sources:
-        - https://github.com/memgraph/memgraph
-      type: application
-      urls:
-        - https://orlandothoeny.github.io/memgraph-helm-charts/memgraph-0.2.16.tgz
-      version: 0.2.16
-generated: "2026-03-18T11:01:42.704465566+01:00"
+  - apiVersion: v2
+    appVersion: 3.8.1
+    created: "2026-03-18T18:42:25.183855299+01:00"
+    description: MemgraphDB Helm Chart
+    digest: 915dbf9d34ba961008da2aa4c7ebf5f21964e855a9ca3b915386e4837c9fa42e
+    home: https://memgraph.com/
+    icon: https://public-assets.memgraph.com/memgraph-logo/logo-large.png
+    keywords:
+    - graph
+    - database
+    - cypher
+    - analytics
+    maintainers:
+    - email: tech@memgraph.com
+      name: Memgraph
+    name: memgraph
+    sources:
+    - https://github.com/memgraph/memgraph
+    type: application
+    urls:
+    - https://orlandothoeny.github.io/memgraph-helm-charts/memgraph-0.2.16.tgz
+    version: 0.2.16
+generated: "2026-03-18T18:42:25.183015463+01:00"
