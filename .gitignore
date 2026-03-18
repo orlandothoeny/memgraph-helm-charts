@@ -10,6 +10,7 @@ docker/
 Thumbs.db
 charts/memgraph-high-availability/charts/
 .vscode/
+/.idea
 
 # Terraform
 .terraform/
