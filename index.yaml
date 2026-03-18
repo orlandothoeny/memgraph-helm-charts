@@ -1,26 +1,48 @@
 apiVersion: v1
 entries:
   memgraph:
-  - apiVersion: v2
-    appVersion: 3.8.1
-    created: "2026-03-18T18:42:25.183855299+01:00"
-    description: MemgraphDB Helm Chart
-    digest: 915dbf9d34ba961008da2aa4c7ebf5f21964e855a9ca3b915386e4837c9fa42e
-    home: https://memgraph.com/
-    icon: https://public-assets.memgraph.com/memgraph-logo/logo-large.png
-    keywords:
-    - graph
-    - database
-    - cypher
-    - analytics
-    maintainers:
-    - email: tech@memgraph.com
-      name: Memgraph
-    name: memgraph
-    sources:
-    - https://github.com/memgraph/memgraph
-    type: application
-    urls:
-    - https://orlandothoeny.github.io/memgraph-helm-charts/memgraph-0.2.17.tgz
-    version: 0.2.17
-generated: "2026-03-18T18:42:25.183015463+01:00"
+    - apiVersion: v2
+      appVersion: 3.8.1
+      created: "2026-03-18T19:21:26.882691149+01:00"
+      description: MemgraphDB Helm Chart
+      digest: 0e872cf7270ab7af48e7bcd1a6e8591763694507d962bea85375679332bddf29
+      home: https://memgraph.com/
+      icon: https://public-assets.memgraph.com/memgraph-logo/logo-large.png
+      keywords:
+        - graph
+        - database
+        - cypher
+        - analytics
+      maintainers:
+        - email: tech@memgraph.com
+          name: Memgraph
+      name: memgraph
+      sources:
+        - https://github.com/memgraph/memgraph
+      type: application
+      urls:
+        - https://orlandothoeny.github.io/memgraph-helm-charts/memgraph-0.2.17.tgz
+      version: 0.2.17
+    - apiVersion: v2
+      appVersion: 3.8.1
+      created: "2026-03-18T19:21:26.879849238+01:00"
+      description: MemgraphDB Helm Chart
+      digest: fff9987921ea0e7318215d4aff482ae378d4daf3ebea7a1feec2beb09f2aaa71
+      home: https://memgraph.com/
+      icon: https://public-assets.memgraph.com/memgraph-logo/logo-large.png
+      keywords:
+        - graph
+        - database
+        - cypher
+        - analytics
+      maintainers:
+        - email: tech@memgraph.com
+          name: Memgraph
+      name: memgraph
+      sources:
+        - https://github.com/memgraph/memgraph
+      type: application
+      urls:
+        - https://orlandothoeny.github.io/memgraph-helm-charts/memgraph-0.2.16.tgz
+      version: 0.2.16
+generated: "2026-03-18T19:21:26.878284469+01:00"
